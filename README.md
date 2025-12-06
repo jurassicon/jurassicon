@@ -51,6 +51,6 @@
 Открыт для предложений на позицию **Junior Python Backend Developer** (удалённо, CET Time Zone).
 
 - Email: `cherkasoooov@gmail.com`
-- [Telegram:] (`https://t.me/iurii_cherkasov`)
+- **[Telegram:] (`https://t.me/iurii_cherkasov`)**
 
 Буду рад предложением, код-ревью и интересным задачам 🙂
