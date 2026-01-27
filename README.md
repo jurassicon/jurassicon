@@ -42,7 +42,7 @@
 - **[MoyClassApp](https://github.com/jurassicon/MoyClassApp)** — Flask-сервис интеграции CRM MoyKlass и Mailchimp для автоматизации e-mail-рассылок.  
 - **[sms-bulk-app](https://github.com/jurassicon/sms-bulk-app)** — микросервис на Flask для SMS-уведомлений ученикам по событиям из CRM.  
 - **[MoyClassLeadBridge](https://github.com/jurassicon/MoyClassLeadBridge)** — сервис, который принимает вебхуки из ManyChat и Tilda и создаёт/обновляет пользователей в MoyKlass.  
-- **Учебные проекты Яндекс Практикума** — Foodgram (Django + DRF + Docker + PostgreSQL) и другие pet-проекты, имитирующие production-окружение.
+- **Учебные проекты Яндекс Практикума** — [Foodgram](https://github.com/jurassicon/foodgram) (Django + DRF + Docker + PostgreSQL + CI/CD) и другие pet-проекты, имитирующие production-окружение.
 - **[The Snake game](https://github.com/jurassicon/the_snake)** — Классическая игра "Змейка", реализованная на Python с использованием библиотеки Pygame.
 
 ---
